@@ -6,7 +6,7 @@ body {
     background-image: linear-gradient(to right bottom, lightblue, lightyellow, lightblue);
     border-radius: 10%;
     font-size: 25px;
-    border: 2px solid royalblue;
+    border: 3px solid royalblue;
     padding: 20px;
     color: crimson;
     text-decoration: none;
@@ -20,8 +20,8 @@ header {
 
 h1 {
     text-align: center;
-    font-size: 50px;
-    text-shadow: -4px 2px black;
+    font-size: 96px;
+    text-shadow: -8px 4px black;
     color: royalblue;
 }
 
@@ -35,4 +35,12 @@ h1 {
     opacity: 0.2;
 }
 
+.social {
+    display: inline-block;
+    margin: 30px;
+}
 
+li {
+    font-size: 24px;
+    margin-left: 60px;
+}
