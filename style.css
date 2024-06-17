@@ -24,3 +24,20 @@ h1 {
     text-shadow: -4px 2px black;
     color: royalblue;
 }
+
+.social img:hover {
+    transform: scale(1.2);
+    transition: all 1s ease-out;
+    opacity: 1;
+}
+
+.social img {
+    opacity: 0.2;
+}
+
+div {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
