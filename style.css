@@ -35,9 +35,4 @@ h1 {
     opacity: 0.2;
 }
 
-div {
-  display: flex;
-  align-items: center;
-  justify-content: space-around;
-}
 
